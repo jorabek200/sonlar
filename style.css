@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, #3800AF 0%, #BF7204 97.52%, #C27500 100%, #C27500 100%);
+}
+
+.container{
+    width: 1320px;
+    margin: 0 auto;
+    padding: 0;
+
+}
+.content{
+    padding-top: 300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    font-size: 56px;
+    color: black;
+}
+#javob{
+    text-align: center;
+    font-size: 88px;
+    color: aliceblue;
+    margin: 0;
+}
